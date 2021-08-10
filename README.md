@@ -1,3 +1,3 @@
 # Vanilla-JS 2021 
 
-Cloning chrome app!
+Let's cloning chrome app!
